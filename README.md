@@ -1,5 +1,5 @@
 
-<h1>👋 &nbsp;Olá, eu sou o Cleilton, um desenvolvedor full stack apaixonado pelo que faz!</h1>
+<h1>👋 &nbsp;Hi, I'm Cleilton, a mobile developer passionate about what he does!</h1>
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/cleiltonbv)](https://github.com/cleiltonbv)
@@ -19,7 +19,7 @@
 
 ## About me:
 
-I'm a Fullstack Developer :smile:
+I'm a mobile developer :smile:
 
 I Love code and create new stuff, i like too much to discover new technologies and dive deep in solving problems.
 
