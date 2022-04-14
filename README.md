@@ -25,6 +25,12 @@ I Love code and create new stuff, i like too much to discover new technologies a
 
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
+  
+<div>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</div>
 
 
 [![cleiltonbv github stats](https://github-readme-stats.vercel.app/api?username=cleiltonbv&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/cleiltonbv)
