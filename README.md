@@ -2,7 +2,6 @@
 <h1>👋 &nbsp;Hi, I'm Cleilton, a mobile developer passionate about what he does!</h1>
 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/cleiltonbv)](https://github.com/cleiltonbv)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/https://linkedin.com/in/cleiltonas/)](https://www.linkedin.com/in/https://linkedin.com/in/cleiltonas/)
 
 
